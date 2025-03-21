@@ -4,7 +4,7 @@
 print("hello world")
 //go for lunch
 
-gouri_list=["no"]
+gouri_list=["no", "gouuraaay"]
 
 
 
